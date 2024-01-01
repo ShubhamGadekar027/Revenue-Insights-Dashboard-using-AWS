@@ -13,7 +13,7 @@ The primary objective of this project is to build end-to-end data solution by an
 - Process and transform the raw data is done in AWS Athena to derive meaningful insights.
 - Apply necessary data cleaning, aggregation, and enrichment steps.Prepare the data for analysis and visualization.
 
-<p align="center"><img src='[https://i.postimg.cc/qM7M4Kg2/Flowchart.png](https://i.postimg.cc/N0v3fyQg/Athena-Transform.png)'><p align="center">
+<p align="center"><img src='https://i.postimg.cc/N0v3fyQg/Athena-Transform.png'><p align="center">
 
 ##### Load:
 - Store the transformed data in a data warehouse on AWS Redshift for efficient storage and retrieval.
