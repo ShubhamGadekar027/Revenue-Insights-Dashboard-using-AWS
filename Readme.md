@@ -22,6 +22,5 @@ The primary objective of this project is to build end-to-end data solution by an
 
 ### Data Modelling:
 
-<p align="center"><img src='https://i.postimg.cc/4NNcnBjN/DM.png'><p align="center">
 
   
