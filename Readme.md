@@ -1,3 +1,5 @@
+https://www.novypro.com/project/revenue-insights-dashboard-2
+
 ### About Dataset :
 This project analyzes a hotel revenue dataset containing 134,591 rows of data. The dataset includes key attributes such as hotel name, booking date, and booking status. The aim of this analysis is to gain insights into hotel revenue trends and booking patterns.
 
