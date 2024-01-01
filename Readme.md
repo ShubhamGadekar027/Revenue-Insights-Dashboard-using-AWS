@@ -29,4 +29,6 @@ The primary objective of this project is to build end-to-end data solution by an
 
 <p align="center"><img src='https://i.postimg.cc/LscrF5HP/Data-model.png'><p align="center">
 
-  
+### Dashboard:
+
+<p align="center"><img src='https://i.postimg.cc/W4K8wQLn/HD.png'><p align="center">  
