@@ -17,6 +17,9 @@ The primary objective of this project is to build end-to-end data solution by an
 
 ##### Load:
 - Store the transformed data in a data warehouse on AWS Redshift for efficient storage and retrieval.
+
+<p align="center"><img src='https://i.postimg.cc/sgjnnpfG/Redshift-Analytics.png'><p align="center">
+
 ##### Connect to Power BI:
 - Establish a connection between the data warehouse and Power BI for seamless data visualization.
 - Leverage Power BI's capabilities to create interactive and insightful visualizations based on the hotel revenue dataset.
