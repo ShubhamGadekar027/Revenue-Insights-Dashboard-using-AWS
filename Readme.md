@@ -3,6 +3,10 @@ This project analyzes a hotel revenue dataset containing 134,591 rows of data. T
 
 ### Objective :
 The primary objective of this project is to build end-to-end data solution by an ETL (Extract, Transform, Load) pipeline using AWS services. The key steps include:
+### Flowchart :
+
+<p align="center"><img src='https://i.postimg.cc/qM7M4Kg2/Flowchart.png'><p align="center">
+
 ##### Extract:
 - From the local storage the hotel revenue dataset with 134,591 rows of data(e.g., CSV file, database) is stored using AWS S3.
 ##### Transform:
@@ -15,9 +19,7 @@ The primary objective of this project is to build end-to-end data solution by an
 - Leverage Power BI's capabilities to create interactive and insightful visualizations based on the hotel revenue dataset.
 
 
-### Flowchart :
 
-<p align="center"><img src='https://i.postimg.cc/qM7M4Kg2/Flowchart.png'><p align="center">
 
 
 ### Data Modelling:
