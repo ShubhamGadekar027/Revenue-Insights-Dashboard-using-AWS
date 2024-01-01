@@ -4,12 +4,12 @@ This project analyzes a hotel revenue dataset containing 134,591 rows of data. T
 #### Objective :
 The primary objective of this project is to establish an ETL (Extract, Transform, Load) pipeline using AWS services. The key steps include:
 ##### Extract:
-- Fetch the hotel revenue dataset with 134,591 rows of data from a source (e.g., CSV file, database) using AWS tools.
+- From the local storage the hotel revenue dataset with 134,591 rows of data(e.g., CSV file, database) is stored using AWS S3.
 ##### Transform:
-- Process and transform the raw data to derive meaningful insights.
+- Process and transform the raw data is done in AWS Athena to derive meaningful insights.
 - Apply necessary data cleaning, aggregation, and enrichment steps.Prepare the data for analysis and visualization.
 ##### Load:
-- Store the transformed data in a data warehouse on AWS for efficient storage and retrieval.
+- Store the transformed data in a data warehouse on AWS Redshift for efficient storage and retrieval.
 ##### Connect to Power BI:
 - Establish a connection between the data warehouse and Power BI for seamless data visualization.
 - Leverage Power BI's capabilities to create interactive and insightful visualizations based on the hotel revenue dataset.
