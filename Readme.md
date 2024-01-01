@@ -2,7 +2,7 @@
 This project analyzes a hotel revenue dataset containing 134,591 rows of data. The dataset includes key attributes such as hotel name, booking date, and booking status. The aim of this analysis is to gain insights into hotel revenue trends and booking patterns.
 
 ### Objective :
-The primary objective of this project is to establish an ETL (Extract, Transform, Load) pipeline using AWS services. The key steps include:
+The primary objective of this project is to build end-to-end data analytics solution by an ETL (Extract, Transform, Load) pipeline using AWS services. The key steps include:
 ##### Extract:
 - From the local storage the hotel revenue dataset with 134,591 rows of data(e.g., CSV file, database) is stored using AWS S3.
 ##### Transform:
